@@ -1,5 +1,5 @@
 import pygame
-import os
+import os 
 from enemies.scorpion import Scorpion
 from enemies.club import Club
 from enemies.wizard import Wizard
